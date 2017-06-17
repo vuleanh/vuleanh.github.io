@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khoi Lai</title>
+    <link>https://www.khoi.io/</link>
+    <description>Recent content on Khoi Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Jun 2017 20:25:07 +0700</lastBuildDate>
+    
+	<atom:link href="https://www.khoi.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multicast delegate in Swift</title>
+      <link>https://www.khoi.io/blog/multicast-delegate-in-swift/</link>
+      <pubDate>Fri, 09 Jun 2017 20:25:07 +0700</pubDate>
+      
+      <guid>https://www.khoi.io/blog/multicast-delegate-in-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom UIScrollview Paging Size</title>
+      <link>https://www.khoi.io/blog/custom-uiscrollview-paging-size/</link>
+      <pubDate>Mon, 07 Nov 2016 18:33:28 +0700</pubDate>
+      
+      <guid>https://www.khoi.io/blog/custom-uiscrollview-paging-size/</guid>
+      <description>A scroll view&amp;rsquo;s paging size is determined by its bound, and there is no way to adjust it. It&amp;rsquo;s difficult to explain why developer wants to change this size. Consider this calendar scenario where I want to show some preview of the next month.
+There is one way that you could achieve this, by setting the scroll view&amp;rsquo;s width with the width of the page you like and set its clipsToBounds to false.</description>
+    </item>
+    
+    <item>
+      <title>Bitwise Flags Enum in Swift using OptionSet</title>
+      <link>https://www.khoi.io/blog/bitwise-flag-enum-in-swift-optionset/</link>
+      <pubDate>Sat, 01 Oct 2016 16:58:44 +0700</pubDate>
+      
+      <guid>https://www.khoi.io/blog/bitwise-flag-enum-in-swift-optionset/</guid>
+      <description>Bitwise Flags using Enum is a technique that is heavily used in the Apple SDK. You can see that Apple tends to use that everywhere from UIKit to Foundation.
+ In Swift, enum doesn&amp;rsquo;t behave that way. Fact: Did you know enum in Swift can even have methods?
+ Swift want all the enum value to be literal, and 1 &amp;lt;&amp;lt; 0 isn&amp;rsquo;t it. So we&amp;rsquo;ll have to revise that in to:</description>
+    </item>
+    
+    <item>
+      <title>Podcasts that I listen to</title>
+      <link>https://www.khoi.io/blog/podcasts-that-i-listen-to/</link>
+      <pubDate>Mon, 12 Sep 2016 12:57:55 +0000</pubDate>
+      
+      <guid>https://www.khoi.io/blog/podcasts-that-i-listen-to/</guid>
+      <description>I usually listen to podcasts on the way to work. These are the ones that I&amp;rsquo;m personally listen to and enjoy. Hope you guys will like it as well.
+Entertainment Podcasts  Serial Season 1 &amp;amp; 2 hosted by Sarah Koenig (superb content, highly recommended) Casefile True Crime (not as good as Serial, but worth mentioning)  Learning And Personal Development Podcasts  Y Combinator A podcast on starting a startup.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://www.khoi.io/about/</link>
+      <pubDate>Fri, 09 Sep 2016 09:59:39 +0700</pubDate>
+      
+      <guid>https://www.khoi.io/about/</guid>
+      <description>An iOS Developer who fights with Xcode everyday.</description>
+    </item>
+    
+  </channel>
+</rss>

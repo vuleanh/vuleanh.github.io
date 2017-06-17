@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.khoi.io/blog/multicast-delegate-in-swift/</loc>
+    <lastmod>2017-06-09T20:25:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/blog/custom-uiscrollview-paging-size/</loc>
+    <lastmod>2016-11-07T18:33:28+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/blog/bitwise-flag-enum-in-swift-optionset/</loc>
+    <lastmod>2016-10-01T16:58:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/blog/podcasts-that-i-listen-to/</loc>
+    <lastmod>2016-09-12T12:57:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/about/</loc>
+    <lastmod>2016-09-09T09:59:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/blog/</loc>
+    <lastmod>2017-06-09T20:25:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/fixed/</loc>
+    <lastmod>2016-09-09T09:59:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/</loc>
+    <lastmod>2017-06-09T20:25:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.khoi.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
